@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grokaem_Algo", "Grokaem_Algo\Grokaem_Algo.csproj", "{AB3F5150-473C-42D5-AE95-55C9B6B3FD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmTests", "AlgorithmTests\AlgorithmTests.csproj", "{64F5B0C9-49FC-479A-885E-8DB91FEB05FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3F5150-473C-42D5-AE95-55C9B6B3FD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3F5150-473C-42D5-AE95-55C9B6B3FD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3F5150-473C-42D5-AE95-55C9B6B3FD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3F5150-473C-42D5-AE95-55C9B6B3FD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F5B0C9-49FC-479A-885E-8DB91FEB05FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F5B0C9-49FC-479A-885E-8DB91FEB05FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F5B0C9-49FC-479A-885E-8DB91FEB05FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F5B0C9-49FC-479A-885E-8DB91FEB05FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
